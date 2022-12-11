@@ -1,0 +1,30 @@
+Metadata-Version: 2.1
+Name: cohort
+Version: 0.1.2
+Summary: Marketing Cohort Analysis package
+Home-page: https://github.com/s0na02/Individual-Project-.git
+Author: Sona Stepanyan
+Author-email: sona_stepanyan@edu.aua.am
+License: UNKNOWN
+Description: # Individual Project
+        ## Cohort analysis python package
+        
+        
+        The following python package was created in the scopes of an individual project for DS223 Maketing Analytics course. 
+        
+        The python package focuses on cohort analysis.
+        
+        
+        ### Installation:
+        ---
+        You can install **Cohort** using 
+        
+        ### Usage:
+        ---
+        
+        
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
