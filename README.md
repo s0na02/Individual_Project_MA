@@ -13,9 +13,25 @@ You can install **Cohort** using
 
 ### Usage:
 ```python
+pip install roi
+``` 
+
+```python
 import pandas as pd
 import matplotlib.pyplot as plt
-from roi import cohort_analysis
+from cohort import cohort_analysis
+
+# Read dataset 
+data=pd.read_csv()
+
+analysis=cohort_analysis(input_df=data, ActivityDate='', CustomerID='')
+
+## Generate retention heatmap
+
+analysis.plot_retention()
+
+
+
 ```
 
 
