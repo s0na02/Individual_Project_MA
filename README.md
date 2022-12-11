@@ -12,6 +12,10 @@ The python package focuses on cohort analysis.
 You can install **Cohort** using 
 
 ### Usage:
----
+```python
+import pandas as pd
+import matplotlib.pyplot as plt
+from roi import cohort_analysis
+```
 
 
