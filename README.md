@@ -13,7 +13,7 @@ You can install **Cohort** using
 
 ### Usage:
 ```python
-pip install roi
+pip install cohort
 ``` 
 
 ```python
