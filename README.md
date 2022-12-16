@@ -8,13 +8,16 @@ The python package focuses on cohort analysis.
 
 Codes for the cohort analysis can be found in Cohort folder.
 
-### Installation:
 ---
+
+### Installation:
+
 You can install **Cohort** using 
 
 ```python
 pip install cohort
 ``` 
+---
 
 ### Usage:
 
