@@ -2,7 +2,7 @@
 ## Cohort analysis python package
 
 
-The following python package was created in the scopes of an individual project for DS223 Maketing Analytics course. 
+The following python package was created in the scopes of an individual project for **DS223 Maketing Analytics** course. 
 
 The python package focuses on cohort analysis.
 
