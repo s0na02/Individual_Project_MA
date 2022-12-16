@@ -22,15 +22,15 @@ import matplotlib.pyplot as plt
 from cohort import cohort_analysis
 
 # Read dataset 
-data=pd.read_csv()
+data=pd.read_csv('data.csv',encoding='latin',parse_dates=['OrderDate'])
 
-analysis=cohort_analysis(input_df=data, ActivityDate='', CustomerID='')
+analysis=cohort_analysis(input_df=data, ActivityDate='OrderDate', CustomerID='UserId')
 
 ## Generate retention heatmap
 
 analysis.plot_retention()
 
-
+![](https://imgur.com/XVM3TkC.png)
 
 ```
 
