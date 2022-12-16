@@ -29,9 +29,10 @@ analysis=cohort_analysis(input_df=data, ActivityDate='OrderDate', CustomerID='Us
 ## Generate retention heatmap
 
 analysis.plot_retention()
+```
 
 ![](https://imgur.com/XVM3TkC.png)
 
-```
+
 
 
