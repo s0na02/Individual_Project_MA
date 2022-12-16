@@ -11,10 +11,11 @@ The python package focuses on cohort analysis.
 ---
 You can install **Cohort** using 
 
-### Usage:
 ```python
 pip install cohort
 ``` 
+
+### Usage:
 
 ```python
 import pandas as pd
