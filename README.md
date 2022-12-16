@@ -6,6 +6,7 @@ The following python package was created in the scopes of an individual project 
 
 The python package focuses on cohort analysis.
 
+Codes for the cohort analysis can be found in Cohort folder.
 
 ### Installation:
 ---
@@ -23,6 +24,7 @@ import matplotlib.pyplot as plt
 from cohort import cohort_analysis
 
 # Read dataset 
+
 data=pd.read_csv('data.csv',encoding='latin',parse_dates=['OrderDate'])
 
 analysis=cohort_analysis(input_df=data, ActivityDate='OrderDate', CustomerID='UserId')
